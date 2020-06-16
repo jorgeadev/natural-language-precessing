@@ -1,0 +1,35 @@
+This is a book about Natural Language Processing. By "natural language" we mean a language that is used for everyday communication by humans; languages like English, Hindi or Portuguese. In contrast to artificial languages such as programming languages and mathematical notations, natural languages have evolved as they pass from generation to generation, and are hard to pin down with explicit rules. We will take Natural Language Processing — or NLP for short — in a wide sense to cover any kind of computer manipulation of natural language. At one extreme, it could be as simple as counting word frequencies to compare different writing styles. At the other extreme, NLP involves "understanding" complete human utterances, at least to the extent of being able to give useful responses to them.
+
+Technologies based on NLP are becoming increasingly widespread. For example, phones and handheld computers support predictive text and handwriting recognition; web search engines give access to information locked up in unstructured text; machine translation allows us to retrieve texts written in Chinese and read them in Spanish; text analysis enables us to detect sentiment in tweets and blogs. By providing more natural human-machine interfaces, and more sophisticated access to stored information, language processing has come to play a central role in the multilingual information society.
+
+This book provides a highly accessible introduction to the field of NLP. It can be used for individual study or as the textbook for a course on natural language processing or computational linguistics, or as a supplement to courses in artificial intelligence, text mining, or corpus linguistics. The book is intensely practical, containing hundreds of fully-worked examples and graded exercises.
+
+The book is based on the Python programming language together with an open source library called the Natural Language Toolkit (NLTK). NLTK includes extensive software, data, and documentation, all freely downloadable from http://nltk.org/. Distributions are provided for Windows, Macintosh and Unix platforms. We strongly encourage you to download Python and NLTK, and try out the examples and exercises along the way.
+
+Audience
+
+NLP is important for scientific, economic, social, and cultural reasons. NLP is experiencing rapid growth as its theories and methods are deployed in a variety of new language technologies. For this reason it is important for a wide range of people to have a working knowledge of NLP. Within industry, this includes people in human-computer interaction, business information analysis, and web software development. Within academia, it includes people in areas from humanities computing and corpus linguistics through to computer science and artificial intelligence. (To many people in academia, NLP is known by the name of "Computational Linguistics.")
+
+This book is intended for a diverse range of people who want to learn how to write programs that analyze written language, regardless of previous programming experience:
+
+New to programming?:
+ 	The early chapters of the book are suitable for readers with no prior knowledge of programming, so long as you aren't afraid to tackle new concepts and develop new computing skills. The book is full of examples that you can copy and try for yourself, together with hundreds of graded exercises. If you need a more general introduction to Python, see the list of Python resources at http://docs.python.org/.
+New to Python?:	Experienced programmers can quickly learn enough Python using this book to get immersed in natural language processing. All relevant Python features are carefully explained and exemplified, and you will quickly come to appreciate Python's suitability for this application area. The language index will help you locate relevant discussions in the book.
+Already dreaming in Python?:
+ 	Skim the Python examples and dig into the interesting language analysis material that starts in 1.. You'll soon be applying your skills to this fascinating domain.
+Emphasis
+
+This book is a practical introduction to NLP. You will learn by example, write real programs, and grasp the value of being able to test an idea through implementation. If you haven't learnt already, this book will teach you programming. Unlike other programming books, we provide extensive illustrations and exercises from NLP. The approach we have taken is also principled, in that we cover the theoretical underpinnings and don't shy away from careful linguistic and computational analysis. We have tried to be pragmatic in striking a balance between theory and application, identifying the connections and the tensions. Finally, we recognize that you won't get through this unless it is also pleasurable, so we have tried to include many applications and examples that are interesting and entertaining, sometimes whimsical.
+
+Note that this book is not a reference work. Its coverage of Python and NLP is selective, and presented in a tutorial style. For reference material, please consult the substantial quantity of searchable resources available at http://python.org/ and http://nltk.org/.
+
+This book is not an advanced computer science text. The content ranges from introductory to intermediate, and is directed at readers who want to learn how to analyze text using Python and the Natural Language Toolkit. To learn about advanced algorithms implemented in NLTK, you can examine the Python code linked from http://nltk.org/, and consult the other materials cited in this book.
+
+What You Will Learn
+
+By digging into the material presented here, you will learn:
+
+How simple programs can help you manipulate and analyze language data, and how to write these programs
+How key concepts from NLP and linguistics are used to describe and analyse language
+How data structures and algorithms are used in NLP
+How language data is stored in standard formats, and how data can be used to evaluate the performance of NLP techniques
